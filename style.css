@@ -82,23 +82,26 @@ body, html{
   color: white !important;
 }
 
-.what-is-donut{
+.our-menu{
   background-color: #e171b6;
   color: white;
-  height: 100%;
-  width: 100%;
-  overflow: hidden;
+  height: 100vw;
+  width: 100vw;
 }
 
-.what-is-donut h3{
+.our-menu h3{
   font-size: 4vw;
   text-align: center;
 }
 
-.what-is-donut p{
+.our-menu p{
   font-size: 1.2vw;
 }
 
-.content{
-  padding-top: 2vw;
+.our-menu img{
+  width: 100vw !important;
+}
+
+.carousel{
+  margin: 0px auto !important;
 }
